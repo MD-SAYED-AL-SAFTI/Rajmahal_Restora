@@ -1,0 +1,32 @@
+body{
+     font-family: 'Roboto', sans-serif;
+     line-height: -5px;
+    
+}
+.restaurant{
+     color:orange;
+}
+h1{
+     font-size: 35px;
+}
+.food_buttom{
+     text-decoration:none;
+     background-image: linear-gradient(orange, red);
+     padding: 10px 20px;
+     border-radius: 30px;
+     font-weight: 100;
+     color:white;
+}
+section{
+     display: flex;
+}
+.home-page{
+     width: 50%;
+     padding:5%;
+     text-align:left;
+}
+.home-page img{
+     width:100%;
+     padding-right: px;
+}
+    
