@@ -1,8 +1,13 @@
+body{
+     
+}
+
+
 .restaurant{
      color:orange;
 }
 h1{
-     font-size: 35px;
+     
      font-family: 'Roboto', sans-serif;
 }
 .food_buttom{
@@ -15,6 +20,7 @@ h1{
 }
 section{
      display: flex;
+     font-size: 30px;
 }
 .home-page{
      width: 50%;
@@ -27,9 +33,11 @@ section{
 }
 .about-me{
      display: flex;
-     background-image: url(images/shapes/7.png);
+     background-image: url(images/shapes/Frame\ 59.jpg);
      background-size: auto;
-     height: auto;   
+     height:770px;
+     width: 100%;
+ 
 }
 .about-page{
      width: 50%;
@@ -39,4 +47,5 @@ section{
 .about-page img{
      width:100%;
      padding-right:10 px;
+     align:right;
 }
