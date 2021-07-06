@@ -1,13 +1,9 @@
-body{
-     font-family: 'Roboto', sans-serif;
-     line-height: -5px;
-    
-}
 .restaurant{
      color:orange;
 }
 h1{
      font-size: 35px;
+     font-family: 'Roboto', sans-serif;
 }
 .food_buttom{
      text-decoration:none;
@@ -29,4 +25,18 @@ section{
      width:100%;
      padding-right: px;
 }
-    
+.about-me{
+     display: flex;
+     background-image: url(images/shapes/7.png);
+     background-size: auto;
+     height: auto;   
+}
+.about-page{
+     width: 50%;
+     padding:10%;
+     text-align:left;
+}
+.about-page img{
+     width:100%;
+     padding-right:10 px;
+}
